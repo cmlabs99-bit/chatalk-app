@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://bitbucket.org/TheResearchCorp/client/
+[submodule "server"]
+	path = server
+	url = https://bitbucket.org/TheResearchCorp/server
