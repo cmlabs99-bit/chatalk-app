@@ -1,3 +1,8 @@
+[submodule "server"]
+	path = server
+	url = https://TheResearchCorp@bitbucket.org/TheResearchCorp/server.git
+	branch = master
 [submodule "client"]
 	path = client
-	url = https://bitbucket.org/TheResearchCorp/client/
+	url = https://TheResearchCorp@bitbucket.org/TheResearchCorp/client.git
+	branch = master
